@@ -1,34 +1,19 @@
-# Profile
+# About
 
 <div class="center">
 
-[GitHub](https://github.com/notcodingtoday) | [@notcodingtoday](https://twitter.com/notcodingtoay)
+[GitHub](https://github.com/eggricesoy)
 
 </div>
 
-```
-Name  : Nocoto. Call me Noco.
-Job   : Software Engineer (SRE) at one of FAAMNG companies.
-Location    : Not US. Never planning to work or live there.
-Work years  : Around 3 years as of 2020.
-Music taste : Better than yours.
-Gaming taste   : Wide. Very wide.
-Political view : I equally make make fun of everyone :)
-```
+Game development team making weird things.
 
-## I am good at
+## Location
 
-- Scoping work and setting expectations.
-- Global-scale build and release systems.
-- Shaders.
+Slightly above Earth.
 
-## I am currently working on
+## Members
 
-- Global, replicated, eventually-consistent database storage.
-- Distributed global game server.
-- [Mabinogi](https://mabinogi.nexon.net/) game clone.
-- Music covers.
+[Nocoto Day](https://notcoding.today)
 
-## Non-tech & non-nerdy hobbies
-
-Playing electric guitar, singing, gymming, blogging.
+[Furry Brocoli](https://notcoding.today)

@@ -1,6 +1,6 @@
-# notcoding.today Blog
+# eggrice.soy Blog
 
-Visit [notcoding.today](https://notcoding.today) to see the result.
+Visit [eggrice.soy](https://eggrice.soy) to see the result.
 
 Entire workflow is done with built-in `fs` package and `posthtml` elements.
 

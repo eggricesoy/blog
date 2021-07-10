@@ -81,7 +81,7 @@ function watchBlog() {
 function blogTemplate(data) {
   let title = common.extractTitleFromPost(data)
   return `<extends src="blog.html">
-    <block name="title">${title} //notcoding.today</block>
+    <block name="title">${title} eggrice.soy</block>
     <block name="content">${data}</block>
   </extends>`
 }

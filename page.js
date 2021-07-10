@@ -16,12 +16,12 @@ function processAbout() {
         root: common.TEMPLATES_DIR
       })
     ])
-    .process(
-      pageTemplate("About ", marked(data))
-    )
-    .then((result) => {
-      common.writeFile(outputFile, result.html, inputFile)
-    })
+      .process(
+        pageTemplate("About ", marked(data))
+      )
+      .then((result) => {
+        common.writeFile(outputFile, result.html, inputFile)
+      })
   })
 }
 
@@ -62,9 +62,9 @@ function processIndex() {
         root: common.TEMPLATES_DIR
       })
     ])
-    .process(blogEntryTemplate(title, date), { sync: true })
-    .html
-    .replace("$LINK", path)
+      .process(blogEntryTemplate(title, date), { sync: true })
+      .html
+      .replace("$LINK", path)
   })
 
   Object.keys(entryMap).sort().forEach((key) => {
@@ -77,8 +77,8 @@ function processIndex() {
       root: common.TEMPLATES_DIR
     })
   ])
-  .process(indexTemplate(entries), { sync: true })
-  .html
+    .process(indexTemplate(entries), { sync: true })
+    .html
 
   posthtml([
     posthtmlextend({
@@ -86,10 +86,10 @@ function processIndex() {
       root: common.TEMPLATES_DIR
     })
   ])
-  .process(pageTemplate("", index))
-  .then((result) => {
-    common.writeFile(outputFile, result.html)
-  })
+    .process(pageTemplate("", index))
+    .then((result) => {
+      common.writeFile(outputFile, result.html)
+    })
 }
 
 
@@ -116,7 +116,7 @@ function blogEntryTemplate(title, date) {
 
 function pageTemplate(title, data) {
   return `<extends src="blog.html">
-    <block name="title">${title}//notcoding.today</block>
+    <block name="title">${title} eggrice.soy</block>
     <block name="content">
       ${data}
     </block>
