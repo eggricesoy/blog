@@ -16,4 +16,4 @@ Slightly above Earth.
 
 [Nocoto Day](https://notcoding.today)
 
-[Furry Brocoli](https://notcoding.today)
+[Furry Broccoli](https://github.com/furry-broccoli)
