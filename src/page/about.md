@@ -14,6 +14,8 @@ Slightly above Earth.
 
 ## Members
 
-[Nocoto Day](https://notcoding.today)
+Nocoto Day // [GitHub](https://github.com/notcodingtoday) | [blog](https://notcoding.today)
 
-[Furry Broccoli](https://github.com/furry-broccoli)
+Furry Broccoli // [GitHub](https://github.com/furry-broccoli)
+
+Alta Ago // [GitHub](https://github.com/AltaAgo)
