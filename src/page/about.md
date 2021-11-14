@@ -20,4 +20,4 @@ Furry Broccoli // [GitHub](https://github.com/furry-broccoli)
 
 Alta Ago // [GitHub](https://github.com/AltaAgo)
 
-slapclubmyth // [slapclubmyth](https://github.com/slapclubmyth)
+slapclubmyth // [GitHub](https://github.com/slapclubmyth)
